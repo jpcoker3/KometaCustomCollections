@@ -1,0 +1,11 @@
+collections:
+  Hallmark Christmas:
+    flicklist_list: https://flicklist.tv/u/jamesbird/lists/hallmark-christmas-collection
+    collection_order: custom
+    sync_mode: sync
+    schedule: range(11/01-12/31)
+    delete_not_scheduled: true
+    visible_home: true
+    visible_library: false
+    visible_shared: true
+    sort_title: +000_Hallmark Christmas
