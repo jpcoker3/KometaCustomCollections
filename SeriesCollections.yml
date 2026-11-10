@@ -3,6 +3,7 @@
 collections:
   Harry Potter:
     tmdb_collection: 1241
+    url_poster: https://theposterdb.com/api/assets/545
     sync_mode: sync
     collection_order: release
     visible_home: false
@@ -14,6 +15,7 @@ collections:
     tmdb_collection:
       - 120794
       - 263
+    url_poster: https://theposterdb.com/api/assets/251166
     sync_mode: sync
     collection_order: release
     visible_home: false
@@ -23,6 +25,7 @@ collections:
 
   DC Movies:
     tmdb_company: 429
+    url_poster: https://theposterdb.com/api/assets/644507
     sync_mode: sync
     visible_home: false
     visible_library: false
@@ -31,6 +34,7 @@ collections:
 
   Marvel Movies:
     tmdb_company: 420
+    url_poster: https://theposterdb.com/api/assets/73393
     sync_mode: sync
     visible_home: false
     visible_library: false
@@ -39,6 +43,7 @@ collections:
 
   Scream:
     tmdb_collection: 2602
+    url_poster: https://theposterdb.com/api/assets/25805
     sync_mode: sync
     collection_order: release
     visible_home: false
@@ -46,8 +51,9 @@ collections:
     visible_shared: false
     sort_title: "+005_Scream"
 
-  Avatar (Pandora):
+  Avatar:
     tmdb_collection: 87096
+    url_poster: https://theposterdb.com/api/assets/303873
     sync_mode: sync
     collection_order: release
     visible_home: false
@@ -57,6 +63,7 @@ collections:
 
   Godzilla:
     tmdb_collection: 535313
+    url_poster: https://theposterdb.com/api/assets/67809
     sync_mode: sync
     collection_order: release
     visible_home: false
@@ -65,7 +72,8 @@ collections:
     sort_title: "+007_Godzilla"
 
   Scary Movie:
-    tmdb_collection: 861
+    tmdb_collection: 4246
+    url_poster: https://theposterdb.com/api/assets/66937
     sync_mode: sync
     collection_order: release
     visible_home: false
@@ -75,6 +83,7 @@ collections:
 
   Toy Story:
     tmdb_collection: 10194
+    url_poster: https://theposterdb.com/api/assets/17798
     sync_mode: sync
     collection_order: release
     visible_home: false
@@ -84,6 +93,7 @@ collections:
 
   V/H/S:
     tmdb_collection: 207621
+    url_poster: https://theposterdb.com/api/assets/419635
     sync_mode: sync
     collection_order: release
     visible_home: false
@@ -94,6 +104,7 @@ collections:
   Pixar Movies:
     # Pixar Animation Studios production-company titles.
     tmdb_company: 3
+    url_poster: https://theposterdb.com/api/assets/18894
     sync_mode: sync
     visible_home: false
     visible_library: false
@@ -102,6 +113,7 @@ collections:
 
   Final Destination:
     tmdb_collection: 8864
+    url_poster: https://theposterdb.com/api/assets/4293
     sync_mode: sync
     collection_order: release
     visible_home: false
