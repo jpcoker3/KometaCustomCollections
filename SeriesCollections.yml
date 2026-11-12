@@ -3,7 +3,7 @@
 collections:
   Harry Potter:
     tmdb_collection: 1241
-    url_poster: https://theposterdb.com/api/assets/545
+    url_poster: https://theposterdb.com/api/assets/27577
     sync_mode: sync
     collection_order: release
     visible_home: false
