@@ -47,3 +47,11 @@ metadata:
       title: "Harry Potter and the Deathly Hallows: Part 2"
       year: 2011
     url_poster: https://theposterdb.com/api/assets/27585
+
+  # Avatar (Pandora)
+  Avatar:
+    match:
+      title: "Avatar"
+      year: 2011
+    url_poster: https://theposterdb.com/api/assets/27585
+  

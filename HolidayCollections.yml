@@ -4,11 +4,11 @@ collections:
       - https://mdblist.com/lists/vectrexgamer/hallmark-original-christmas-movies/
       - https://mdblist.com/lists/jmurph116/christmas-romcom
     url_poster: https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjU_ScNsY8rD4TIA2UHsioCxqzXhusLWw6aWOtTSJgdV_cHBOz7tAUkS0Fpd0zF81alGXtB1puCcZjeXdByQJEpf94drvJXb7ZsFBJDkEz4IJeHLBVIlXcjIKGMAbBZyBn1qO4v4mzFbv4nFpgVpHEtLpeRi1Z5LozhnjnrFTosy90Jm1AbyprTVQ2zkDr-/s1600/ABiltmoreChristmas-keyart-1.jpg
-    collection_order: custom
+    collection_order: release
     sync_mode: sync
     schedule: range(11/01-12/31)
     delete_not_scheduled: true
     visible_home: true
     visible_library: false
     visible_shared: true
-    sort_title: +000_Hallmark Christmas
+    sort_title: +000_Feel Good Christmas
