@@ -1,3 +1,6 @@
+## Posters are (mostly) retrieved from TPDb
+# https://theposterdb.com/official
+
 metadata:
   # Harry Potter Movies
   Harry Potter and the Sorcerer's Stone (2001):
@@ -52,6 +55,175 @@ metadata:
   Avatar:
     match:
       title: "Avatar"
-      year: 2011
-    url_poster: https://theposterdb.com/api/assets/27585
+      year: 2009
+    url_poster: https://theposterdb.com/api/assets/345887
+
+  Avatar The Way of Water:
+    match:
+      title: "Avatar: The Way of Water"
+      year: 2022
+    url_poster: https://theposterdb.com/api/assets/345888
+
+  Avatar Fire and Ash:
+    match:
+      title: "Avatar: Fire and Ash"
+      year: 2025
+    url_poster: https://theposterdb.com/api/assets/645372
   
+  # Final Destination
+  FD1: 
+    match:
+      title: "Final Destination"
+      year: 2000
+    url_poster: https://theposterdb.com/api/assets/165947
+  
+  FD2: 
+    match:
+      title: "Final Destination 2"
+      year: 2003
+    url_poster: https://theposterdb.com/api/assets/165948
+  
+  FD3: 
+    match:
+      title: "Final Destination 3"
+      year: 2006
+    url_poster: https://theposterdb.com/api/assets/165949
+  
+  FD4: 
+    match:
+      title: "The Final Destination"
+      year: 2009
+    url_poster: https://theposterdb.com/api/assets/165950
+  FD5: 
+    match:
+      title: "Final Destination 5"
+      year: 2011
+    url_poster: https://theposterdb.com/api/assets/165951
+  FD6: 
+    match:
+      title: "Final Destination: Bloodlines"
+      year: 2025
+    url_poster: https://theposterdb.com/api/assets/664114
+
+  # Toy Story
+  Toy Story: 
+    match:
+      title: "Toy Story"
+      year: 1995
+    url_poster: https://theposterdb.com/api/assets/18895
+  
+  Toy Story 2: 
+    match:
+      title: "Toy Story 2"
+      year: 1999
+    url_poster: https://theposterdb.com/api/assets/18897
+  
+  Toy Story 3: 
+    match:
+      title: "Toy Story 3"
+      year: 2010
+    url_poster: https://theposterdb.com/api/assets/18905
+
+  Toy Story 4: 
+    match:
+      title: "Toy Story 4"
+      year: 2019
+    url_poster: https://theposterdb.com/api/assets/18914
+
+  Toy Story 5: 
+    match:
+      title: "Toy Story 5"
+      year: 2026
+    url_poster: https://theposterdb.com/api/assets/730538
+
+  # Tron
+  Tron: 
+    match:
+      title: "Tron"
+      year: 1982
+    url_poster: https://theposterdb.com/api/assets/86756
+  Tron Legacy: 
+    match:
+      title: "Tron: Legacy"
+      year: 2010
+    url_poster: https://theposterdb.com/api/assets/86757
+  Tron Ares: 
+    match:
+      title: "Tron: Ares"
+      year: 2025
+    url_poster: https://theposterdb.com/api/assets/668676
+
+  # Scary Movie
+  Scary Movie: 
+    match:
+      title: "Scary Movie"
+      year: 2000
+    url_poster: https://theposterdb.com/api/assets/994
+
+  Scary Movie 2: 
+  match:
+    title: "Scary Movie 2"
+    year: 2001
+  url_poster: https://theposterdb.com/api/assets/995
+
+  Scary Movie 3: 
+    match:
+      title: "Scary Movie 3"
+      year: 2003
+    url_poster: https://theposterdb.com/api/assets/996
+
+  Scary Movie 4: 
+    match:
+      title: "Scary Movie 4"
+      year: 2006
+    url_poster: https://theposterdb.com/api/assets/997
+
+  Scary Movie 5: 
+    match:
+      title: "Scary Movie 5"
+      year: 2013
+    url_poster: https://theposterdb.com/api/assets/998
+
+  Scary Movie 6: 
+    match:
+      title: "Scary Movie"
+      year: 2026
+    url_poster: https://theposterdb.com/api/assets/730504
+
+
+  # Monsterverse extended
+  Godzilla: 
+    match:
+      title: "Godzilla"
+      year: 2014
+    url_poster: https://theposterdb.com/api/assets/170351
+  
+  Godzilla King of the Monsters: 
+    match:
+      title: "Godzilla: King of the Monsters"
+      year: 2019
+    url_poster: https://theposterdb.com/api/assets/170353
+
+  Godzilla vs. Kong: 
+    match:
+      title: "Godzilla vs. Kong"
+      year: 2021
+    url_poster: https://theposterdb.com/api/assets/170354
+
+  Kong Skull Island:
+    match:
+      title: "Kong: Skull Island"
+      year: 2017
+    url_poster: https://theposterdb.com/api/assets/170352
+
+  Godzilla x Kong New Empire:
+    match:
+      title: "Godzilla x Kong: The New Empire"
+      year: 2024
+    url_poster: https://theposterdb.com/api/assets/474746
+
+  King Kong:
+    match:
+      title: "King Kong"
+      yer: 2005
+    url_poster: https://theposterdb.com/api/assets/45318
