@@ -1,0 +1,14 @@
+# Kometa franchise file
+# Collection definition and individual movie posters (where provided).
+# Poster sources: The Poster Database (TPDb).
+
+collections:
+  V/H/S:
+    tmdb_collection: 207621
+    url_poster: https://theposterdb.com/api/assets/419635
+    sync_mode: sync
+    collection_order: release
+    visible_home: false
+    visible_library: false
+    visible_shared: false
+    sort_title: +010_VHS

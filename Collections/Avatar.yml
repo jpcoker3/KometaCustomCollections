@@ -1,0 +1,30 @@
+# Kometa franchise file
+# Collection definition and individual movie posters (where provided).
+# Poster sources: The Poster Database (TPDb).
+
+collections:
+  Avatar:
+    tmdb_collection: 87096
+    url_poster: https://theposterdb.com/api/assets/345886
+    sync_mode: sync
+    collection_order: release
+    visible_home: false
+    visible_library: false
+    visible_shared: false
+    sort_title: +006_Avatar
+metadata:
+  Avatar (2009):
+    match:
+      title: Avatar
+      year: 2009
+    url_poster: https://theposterdb.com/api/assets/345887
+  Avatar The Way of Water (2022):
+    match:
+      title: 'Avatar: The Way of Water'
+      year: 2022
+    url_poster: https://theposterdb.com/api/assets/345888
+  Avatar Fire and Ash (2025):
+    match:
+      title: 'Avatar: Fire and Ash'
+      year: 2025
+    url_poster: https://theposterdb.com/api/assets/645372

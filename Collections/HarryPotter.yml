@@ -1,0 +1,55 @@
+# Kometa franchise file
+# Collection definition and individual movie posters (where provided).
+# Poster sources: The Poster Database (TPDb).
+
+collections:
+  Harry Potter:
+    tmdb_collection: 1241
+    url_poster: https://theposterdb.com/api/assets/27577
+    sync_mode: sync
+    collection_order: release
+    visible_home: false
+    visible_library: false
+    visible_shared: false
+    sort_title: +001_Harry Potter
+metadata:
+  Harry Potter and the Sorcerer's Stone (2001):
+    match:
+      title: Harry Potter and the Sorcerer's Stone
+      year: 2001
+    url_poster: https://theposterdb.com/api/assets/27578
+  Harry Potter and the Chamber of Secrets (2002):
+    match:
+      title: Harry Potter and the Chamber of Secrets
+      year: 2002
+    url_poster: https://theposterdb.com/api/assets/27579
+  Harry Potter and the Prisoner of Azkaban (2004):
+    match:
+      title: Harry Potter and the Prisoner of Azkaban
+      year: 2004
+    url_poster: https://theposterdb.com/api/assets/27580
+  Harry Potter and the Goblet of Fire (2005):
+    match:
+      title: Harry Potter and the Goblet of Fire
+      year: 2005
+    url_poster: https://theposterdb.com/api/assets/27581
+  Harry Potter and the Order of the Phoenix (2007):
+    match:
+      title: Harry Potter and the Order of the Phoenix
+      year: 2007
+    url_poster: https://theposterdb.com/api/assets/27582
+  Harry Potter and the Half-Blood Prince (2009):
+    match:
+      title: Harry Potter and the Half-Blood Prince
+      year: 2009
+    url_poster: https://theposterdb.com/api/assets/27583
+  Harry Potter and the Deathly Hallows Part 1 (2010):
+    match:
+      title: 'Harry Potter and the Deathly Hallows: Part 1'
+      year: 2010
+    url_poster: https://theposterdb.com/api/assets/27584
+  Harry Potter and the Deathly Hallows Part 2 (2011):
+    match:
+      title: 'Harry Potter and the Deathly Hallows: Part 2'
+      year: 2011
+    url_poster: https://theposterdb.com/api/assets/27585

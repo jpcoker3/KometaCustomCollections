@@ -1,0 +1,45 @@
+# Kometa franchise file
+# Collection definition and individual movie posters (where provided).
+# Poster sources: The Poster Database (TPDb).
+
+collections:
+  Scary Movie:
+    tmdb_collection: 4246
+    url_poster: https://theposterdb.com/api/assets/66937
+    sync_mode: sync
+    collection_order: release
+    visible_home: false
+    visible_library: false
+    visible_shared: false
+    sort_title: +008_Scary Movie
+metadata:
+  Scary Movie (2000):
+    match:
+      title: Scary Movie
+      year: 2000
+    url_poster: https://theposterdb.com/api/assets/994
+  Scary Movie 2 (2001):
+    match:
+      title: Scary Movie 2
+      year: 2001
+    url_poster: https://theposterdb.com/api/assets/995
+  Scary Movie 3 (2003):
+    match:
+      title: Scary Movie 3
+      year: 2003
+    url_poster: https://theposterdb.com/api/assets/996
+  Scary Movie 4 (2006):
+    match:
+      title: Scary Movie 4
+      year: 2006
+    url_poster: https://theposterdb.com/api/assets/997
+  Scary Movie 5 (2013):
+    match:
+      title: Scary Movie 5
+      year: 2013
+    url_poster: https://theposterdb.com/api/assets/998
+  Scary Movie 6 (2026):
+    match:
+      title: Scary Movie
+      year: 2026
+    url_poster: https://theposterdb.com/api/assets/730504

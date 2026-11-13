@@ -1,0 +1,25 @@
+# Kometa franchise file
+# Collection definition and individual movie posters (where provided).
+# Poster sources: The Poster Database (TPDb).
+
+collections:
+  Batman:
+    tmdb_collection:
+    - 120794
+    - 263
+    - 948485
+    - 421904
+    - 356688
+    - 248534
+    - 626517
+    - 785583
+    - 334996
+    - 379475
+    - 1313822
+    url_poster: https://theposterdb.com/api/assets/17108
+    sync_mode: sync
+    collection_order: release
+    visible_home: false
+    visible_library: false
+    visible_shared: false
+    sort_title: +002_Batman

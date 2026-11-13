@@ -1,0 +1,13 @@
+# Kometa franchise file
+# Collection definition and individual movie posters (where provided).
+# Poster sources: The Poster Database (TPDb).
+
+collections:
+  Marvel Movies:
+    tmdb_company: 420
+    url_poster: https://theposterdb.com/api/assets/73393
+    sync_mode: sync
+    visible_home: false
+    visible_library: false
+    visible_shared: false
+    sort_title: +004_Marvel Movies

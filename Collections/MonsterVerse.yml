@@ -1,0 +1,50 @@
+# Kometa franchise file
+# Collection definition and individual movie posters (where provided).
+# Poster sources: The Poster Database (TPDb).
+
+collections:
+  MonsterVerse Extended:
+    tmdb_collection:
+    - 1539140
+    - 535313
+    - 374512
+    - 1474814
+    - 254
+    url_poster: https://theposterdb.com/api/assets/170350
+    sync_mode: sync
+    collection_order: release
+    visible_home: false
+    visible_library: false
+    visible_shared: false
+    sort_title: +007_Monsterverse
+metadata:
+  Godzilla (2014):
+    match:
+      title: Godzilla
+      year: 2014
+    url_poster: https://theposterdb.com/api/assets/170351
+  Godzilla King of the Monsters (2019):
+    match:
+      title: 'Godzilla: King of the Monsters'
+      year: 2019
+    url_poster: https://theposterdb.com/api/assets/170353
+  Godzilla vs Kong (2021):
+    match:
+      title: Godzilla vs. Kong
+      year: 2021
+    url_poster: https://theposterdb.com/api/assets/170354
+  Kong Skull Island (2017):
+    match:
+      title: 'Kong: Skull Island'
+      year: 2017
+    url_poster: https://theposterdb.com/api/assets/170352
+  Godzilla x Kong The New Empire (2024):
+    match:
+      title: 'Godzilla x Kong: The New Empire'
+      year: 2024
+    url_poster: https://theposterdb.com/api/assets/474746
+  King Kong (2005):
+    match:
+      title: King Kong
+      year: 2005
+    url_poster: https://theposterdb.com/api/assets/45318

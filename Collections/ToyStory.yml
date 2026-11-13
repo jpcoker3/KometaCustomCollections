@@ -1,0 +1,40 @@
+# Kometa franchise file
+# Collection definition and individual movie posters (where provided).
+# Poster sources: The Poster Database (TPDb).
+
+collections:
+  Toy Story:
+    tmdb_collection: 10194
+    url_poster: https://theposterdb.com/api/assets/17798
+    sync_mode: sync
+    collection_order: release
+    visible_home: false
+    visible_library: false
+    visible_shared: false
+    sort_title: +009_Toy Story
+metadata:
+  Toy Story (1995):
+    match:
+      title: Toy Story
+      year: 1995
+    url_poster: https://theposterdb.com/api/assets/18895
+  Toy Story 2 (1999):
+    match:
+      title: Toy Story 2
+      year: 1999
+    url_poster: https://theposterdb.com/api/assets/18897
+  Toy Story 3 (2010):
+    match:
+      title: Toy Story 3
+      year: 2010
+    url_poster: https://theposterdb.com/api/assets/18905
+  Toy Story 4 (2019):
+    match:
+      title: Toy Story 4
+      year: 2019
+    url_poster: https://theposterdb.com/api/assets/18914
+  Toy Story 5 (2026):
+    match:
+      title: Toy Story 5
+      year: 2026
+    url_poster: https://theposterdb.com/api/assets/730538

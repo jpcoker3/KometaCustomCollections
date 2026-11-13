@@ -1,0 +1,45 @@
+# Kometa franchise file
+# Collection definition and individual movie posters (where provided).
+# Poster sources: The Poster Database (TPDb).
+
+collections:
+  Final Destination:
+    tmdb_collection: 8864
+    url_poster: https://theposterdb.com/api/assets/4293
+    sync_mode: sync
+    collection_order: release
+    visible_home: false
+    visible_library: false
+    visible_shared: false
+    sort_title: +012_Final Destination
+metadata:
+  Final Destination (2000):
+    match:
+      title: Final Destination
+      year: 2000
+    url_poster: https://theposterdb.com/api/assets/165947
+  Final Destination 2 (2003):
+    match:
+      title: Final Destination 2
+      year: 2003
+    url_poster: https://theposterdb.com/api/assets/165948
+  Final Destination 3 (2006):
+    match:
+      title: Final Destination 3
+      year: 2006
+    url_poster: https://theposterdb.com/api/assets/165949
+  The Final Destination (2009):
+    match:
+      title: The Final Destination
+      year: 2009
+    url_poster: https://theposterdb.com/api/assets/165950
+  Final Destination 5 (2011):
+    match:
+      title: Final Destination 5
+      year: 2011
+    url_poster: https://theposterdb.com/api/assets/165951
+  Final Destination Bloodlines (2025):
+    match:
+      title: 'Final Destination: Bloodlines'
+      year: 2025
+    url_poster: https://theposterdb.com/api/assets/664114

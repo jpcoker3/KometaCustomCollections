@@ -1,0 +1,30 @@
+# Kometa franchise file
+# Collection definition and individual movie posters (where provided).
+# Poster sources: The Poster Database (TPDb).
+
+collections:
+  Tron:
+    tmdb_collection: 63043
+    url_poster: https://theposterdb.com/api/assets/81417
+    sync_mode: sync
+    collection_order: release
+    visible_home: false
+    visible_library: false
+    visible_shared: false
+    sort_title: +012_Tron
+metadata:
+  Tron (1982):
+    match:
+      title: Tron
+      year: 1982
+    url_poster: https://theposterdb.com/api/assets/86756
+  Tron Legacy (2010):
+    match:
+      title: 'Tron: Legacy'
+      year: 2010
+    url_poster: https://theposterdb.com/api/assets/86757
+  Tron Ares (2025):
+    match:
+      title: 'Tron: Ares'
+      year: 2025
+    url_poster: https://theposterdb.com/api/assets/668676
