@@ -1,0 +1,20 @@
+# Kometa franchise file
+# Collection definition and individual movie posters (where provided).
+# Poster sources: The Poster Database (TPDb).
+
+collections:
+  Fast and Furious:
+    tmdb_company: 9485
+    url_poster: https://theposterdb.com/api/assets/112315
+    sync_mode: sync
+    visible_home: false
+    visible_library: false
+    visible_shared: false
+    sort_title: +003_Fast and Furious
+
+metadata:
+  The Fast and the Furious:
+    match:
+      title: "The Fast and the Furious"
+      year: 2001
+    url_poster: https://theposterdb.com/api/assets/38958
