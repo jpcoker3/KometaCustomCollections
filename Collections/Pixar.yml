@@ -11,4 +11,9 @@ collections:
     visible_library: false
     visible_shared: false
     sort_title: +011_Pixar Movies
-metadata: {}
+
+metadata:
+  Toy Story:
+    match:
+      title: "Toy Story"
+      year: 1995

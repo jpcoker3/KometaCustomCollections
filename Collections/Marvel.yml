@@ -11,4 +11,9 @@ collections:
     visible_library: false
     visible_shared: false
     sort_title: +004_Marvel Movies
-metadata: {}
+
+metadata:
+  Iron Man:
+    match:
+      title: "Iron Man"
+      year: 2008

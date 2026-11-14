@@ -12,4 +12,8 @@ collections:
     visible_shared: false
     sort_title: +003_DC Movies
 
-metadata: {}
+metadata:
+  Injustice:
+    match:
+      title: "Injustice"
+      year: 2021

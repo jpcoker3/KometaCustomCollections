@@ -12,4 +12,9 @@ collections:
     visible_library: false
     visible_shared: false
     sort_title: +010_VHS
-metadata: {}
+
+metadata:
+  V/H/S:
+    match:
+      title: "V/H/S"
+      year: 2012
